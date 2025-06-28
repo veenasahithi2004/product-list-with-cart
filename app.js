@@ -1,5 +1,5 @@
 const products = [
-    { id: 1, name: "waffle With Berries", price: 650, img: "i10.png" },
+    { id: 1, name: "waffle With Berries", price: 650, img: "i1.png" },
     { id: 2, name: "Vanilla Bean Crème Brûlée", price: 700, img: "i2.png" },
     { id: 3, name: "Macron Mix Of Five", price: 820, img: "i3.png" },
     { id: 4, name: "Salted Caramel Brownie", price: 550, img: "i4.png" },
