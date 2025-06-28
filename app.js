@@ -1,13 +1,13 @@
 const products = [
-    { id: 1, name: "waffle With Berries", price: 650, img: "i10.png?text=Product+1" },
-    { id: 2, name: "Vanilla Bean Crème Brûlée", price: 700, img: "i2.png?text=Product+2" },
-    { id: 3, name: "Macron Mix Of Five", price: 820, img: "i3.png?text=Product+3" },
-    { id: 4, name: "Salted Caramel Brownie", price: 550, img: "i4.png?text=Product+4" },
-    { id: 5, name: "Classic Tiramisu", price: 550, img: "i5.png?text=Product+3" },
-    { id: 6, name: "Pistachio Baklavaa", price: 400, img: "i6.png?text=Product+3" },
-    { id: 7, name: "Lemon Meringue Pie", price: 510, img: "i7.png?text=Product+3" },
-    { id: 8, name: "Red Velvet Cake", price: 450, img: "i8.png?text=Product+3" },
-    { id: 9, name: "Vanilla Panna Cotta", price: 650, img: "i9.png?text=Product+3" },
+    { id: 1, name: "waffle With Berries", price: 650, img: "i10.png" },
+    { id: 2, name: "Vanilla Bean Crème Brûlée", price: 700, img: "i2.png" },
+    { id: 3, name: "Macron Mix Of Five", price: 820, img: "i3.png" },
+    { id: 4, name: "Salted Caramel Brownie", price: 550, img: "i4.png" },
+    { id: 5, name: "Classic Tiramisu", price: 550, img: "i5.png" },
+    { id: 6, name: "Pistachio Baklavaa", price: 400, img: "i6.png" },
+    { id: 7, name: "Lemon Meringue Pie", price: 510, img: "i7.png" },
+    { id: 8, name: "Red Velvet Cake", price: 450, img: "i8.png" },
+    { id: 9, name: "Vanilla Panna Cotta", price: 650, img: "i9.png" },
 
 ];
 
